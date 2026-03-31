@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alpesh Sarvaiya</h1>
-<h3 align="center">A Passionate Developer from India 🇮🇳</h3>
+
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **[Technology/Language]**
-- 💻 I love working on **Web Development / C++ / Projects**
-- 📫 How to reach me: **your@email.com**
+- 🌱 I’m currently learning :Full stack web developmengt
+- 💻 I love working on : Web Development 
+- 📫 Contact me: alpeshsarvaiya2oo7@gmail.com
 - ⚡ Fun fact: I love coding and solving problems!
 
 ---
@@ -20,12 +20,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alpesh-2007&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
+</p> -->
 
 ---
 
@@ -38,11 +38,11 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a> |
-  <a href="https://twitter.com/yourprofile" target="blank">Twitter</a> |
-  <a href="mailto:your@email.com">Email</a>
+  <a href="www.linkedin.com/in/alpesh-sarvaiya-a34509374" target="blank">LinkedIn</a> |
+  <!-- <a href="https://twitter.com/yourprofile" target="blank">Twitter</a> | -->
+  <a href="mail to:alpeshsarvaiya2007@gmail.com">Email</a>
 </p>
 
 ---
 
-⭐️ From [Your Name]
+⭐️ From :Alpesh.
