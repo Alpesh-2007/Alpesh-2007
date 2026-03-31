@@ -38,9 +38,8 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/alpesh-sarvaiya-a34509374" target="blank">LinkedIn</a> |
-  <!-- <a href="https://twitter.com/yourprofile" target="blank">Twitter</a> | -->
-  <a href="mail to:alpeshsarvaiya2007@gmail.com">Email</a>
+<span>G-mail: alpeshsarvaiya2007@gmail.com</span>
+  
 </p>
 
 ---
